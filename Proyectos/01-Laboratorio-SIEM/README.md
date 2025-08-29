@@ -5,7 +5,7 @@ Configurar y operar un laboratorio SIEM con el fin de **practicar la detección 
 
 ## Herramientas utilizadas
 
-![splunk](assets/https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/blob/main/Proyectos/01-Laboratorio-SIEM/assets/splunk.png?raw=true)
+![splunk](https://github.com/david-garcia-sec/SOC-Portfolio---David-Garcia/blob/main/Proyectos/01-Laboratorio-SIEM/assets/splunk.png?raw=true)
 
 - **Splunk**: plataforma de análisis y correlación de logs.
 <!-- **Sysmon / Suricata / ELK**: [Agregar otras herramientas utilizadas]. -->
