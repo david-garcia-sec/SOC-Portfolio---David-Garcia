@@ -21,8 +21,6 @@ Proyectos:
 
 Labs Adicionales:
 
-[Bandit OTW](Labs-Adicionales/Bandit-OTW)
-
 [Malware Forense](Labs-Adicionales/Malware-Forense)
 
 [Automatización SOAR](Labs-Adicionales/Automatización-SOAR)
