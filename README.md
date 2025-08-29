@@ -5,15 +5,15 @@ Proyectos prácticos y aprendizaje sobre SOC L1
 
 Proyectos:
 
-[Laboratorio SIEM](Proyectos-SOC-L2/01-Laboratorio-SIEM)
+[Laboratorio SIEM](Proyectos/01-Laboratorio-SIEM)
 
-[Triage Endpoint](Proyectos-SOC-L2/02-Triage-Endpoint)
+[Triage Endpoint](Proyectos/02-Triage-Endpoint)
 
-[Triage Red](Proyectos-SOC-L2/03-Triage-Red)
+[Triage Red](Proyectos/03-Triage-Red)
 
-[Playbooks de Respuesta](Proyectos-SOC-L2/04-Playbooks-Respuesta)
+[Playbooks de Respuesta](Proyectos/04-Playbooks-Respuesta)
 
-[Threat Hunting](Proyectos-SOC-L2/05-Threat-Hunting)
+[Threat Hunting](Proyectos/05-Threat-Hunting)
 
 
 Labs Adicionales:
