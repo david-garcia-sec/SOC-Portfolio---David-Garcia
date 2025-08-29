@@ -13,7 +13,7 @@ Proyectos:
 
 [03 - Triage Red](Proyectos/03-Triage-Red)
 
-[04 - Playbooks de Respuesta](Proyectos/04-Playbooks-Respuesta)
+[04 - Playbooks](Proyectos/04-Playbooks)
 
 [05 - Threat Hunting](Proyectos/05-Threat-Hunting)
 
