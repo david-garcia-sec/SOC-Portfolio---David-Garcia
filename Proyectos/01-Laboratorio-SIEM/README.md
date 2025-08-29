@@ -5,7 +5,7 @@ Configurar y operar un laboratorio SIEM con el fin de **practicar la detección 
 
 ## Herramientas utilizadas
 - **Splunk**: plataforma de análisis y correlación de logs.
-- **Sysmon / Suricata / ELK**: [Agregar otras herramientas utilizadas].
+<!-- **Sysmon / Suricata / ELK**: [Agregar otras herramientas utilizadas]. -->
 
 ## Procedimiento
 
