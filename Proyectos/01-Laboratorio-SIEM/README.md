@@ -1,52 +1,57 @@
-01 - Laboratorio SIEM
-Objetivo
+# 01 - Laboratorio SIEM
 
-Configurar y operar un laboratorio SIEM con el fin de practicar la detección de incidentes, gestión de alertas y visualización mediante dashboards, fortaleciendo competencias necesarias para el triage y escalamiento a SOC Nivel 2.
+## Objetivo
+Configurar y operar un laboratorio SIEM con el fin de **practicar la detección de incidentes, gestión de alertas y visualización mediante dashboards**, fortaleciendo competencias necesarias para el triage y escalamiento a SOC Nivel 2.
 
-Herramientas utilizadas
+## Herramientas utilizadas
+- **Splunk**: plataforma de análisis y correlación de logs.
+- **Sysmon / Suricata / ELK**: [Agregar otras herramientas utilizadas].
 
-Splunk: plataforma de análisis y correlación de logs.
+## Procedimiento
 
-[Opcional: si usas otras herramientas como Sysmon, Suricata o ELK, agrégalas aquí].
+1. **Implementación del SIEM**
+   - Instalación y configuración del laboratorio virtual.
+   - Integración de los componentes necesarios para ingestión de logs.
 
-Procedimiento
+2. **Ingesta de logs**
+   - Recolección de logs desde múltiples fuentes: endpoints, servidores y red.
+   - Normalización y verificación de datos para análisis.
 
-Implementación del SIEM
+3. **Configuración de dashboards**
+   - Creación de dashboards interactivos para visualización de eventos críticos.
+   - Ajuste de visualizaciones según criterios de relevancia y prioridad.
 
-Instalación y configuración del laboratorio virtual.
+4. **Creación de reglas de alerta y correlación**
+   - Desarrollo de reglas personalizadas para identificar incidentes de seguridad.
+   - Pruebas de correlación entre eventos para detección de patrones sospechosos.
 
-Integración de los componentes necesarios para ingestión de logs.
+## Evidencia
 
-Ingesta de logs
+- **Dashboards activos**  
+  ![Placeholder Dashboard](ruta/a/captura_dashboard.png)
 
-Recolección de logs desde múltiples fuentes: endpoints, servidores y red.
+- **Alertas generadas**  
+  - Ejemplo de alerta crítica: `[Nombre de alerta]`  
+  - Archivo de prueba: `alertas/alerta1.json`  
 
-Normalización y verificación de datos para análisis.
+- **Logs y resultados**  
+  - Logs utilizados: `logs/endpoint.log`, `logs/servidor.log`  
+  - Resultados de pruebas: `logs/resultados_pruebas.xlsx`
 
-Configuración de dashboards
+## Resultados y conclusiones
 
-Creación de dashboards interactivos para visualización de eventos críticos.
+- **Incidentes detectados**
+  - [Descripción breve de incidentes simulados detectados]
 
-Ajuste de visualizaciones según criterios de relevancia y prioridad.
+- **Mejoras sugeridas**
+  - Optimización de reglas de correlación.
+  - Ajustes en dashboards para priorizar eventos críticos.
 
-Creación de reglas de alerta y correlación
+- **Lecciones aprendidas**
+  - Experiencia en triage de incidentes de seguridad.
+  - Preparación para escalamiento a SOC Nivel 2.
+  - Mejora en la documentación y análisis de eventos.
 
-Desarrollo de reglas personalizadas para identificar incidentes de seguridad.
+---
 
-Pruebas de correlación entre eventos para detección de patrones sospechosos.
-
-Evidencia
-
-Dashboards activos: capturas mostrando visualización de eventos y métricas clave.
-
-Alertas generadas: ejemplos de alertas configuradas y su comportamiento ante incidentes simulados.
-
-Logs y resultados: archivos de logs utilizados para pruebas y evidencias de detección de incidentes.
-
-Resultados y conclusiones
-
-Incidentes detectados: listado de incidentes identificados durante las pruebas.
-
-Mejoras sugeridas: recomendaciones para optimización de reglas, dashboards y flujo de alertas.
-
-Lecciones aprendidas: conocimiento adquirido sobre triage, escalamiento a SOC Nivel 2 y prácticas de análisis de eventos.
+**Nota:** Reemplaza los placeholders con tus archivos reales y capturas para mantener la evidencia profesional y completa.
