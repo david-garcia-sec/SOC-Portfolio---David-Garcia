@@ -1,33 +1,52 @@
-- Objetivo:
+01 - Laboratorio SIEM
+Objetivo
 
-*Configurar un laboratorio SIEM para practicar detección de incidentes, alertas y dashboards.*
+Configurar y operar un laboratorio SIEM con el fin de practicar la detección de incidentes, gestión de alertas y visualización mediante dashboards, fortaleciendo competencias necesarias para el triage y escalamiento a SOC Nivel 2.
 
-- Herramientas utilizadas:
+Herramientas utilizadas
 
-Splunk
+Splunk: plataforma de análisis y correlación de logs.
 
-- Procedimiento paso a paso:
+[Opcional: si usas otras herramientas como Sysmon, Suricata o ELK, agrégalas aquí].
 
-Instalación del SIEM en laboratorio virtual.
+Procedimiento
 
-Ingesta de logs de diferentes fuentes: endpoints, red, servidores.
+Implementación del SIEM
 
-Configuración de dashboards.
+Instalación y configuración del laboratorio virtual.
 
-Creación de reglas de alerta y correlación.
+Integración de los componentes necesarios para ingestión de logs.
 
-- Evidencia
+Ingesta de logs
 
-Capturas de dashboards activos.
+Recolección de logs desde múltiples fuentes: endpoints, servidores y red.
 
-Ejemplos de alertas generadas.
+Normalización y verificación de datos para análisis.
 
-Logs originales y resultados de pruebas.
+Configuración de dashboards
 
-- Resultados / Conclusiones:
+Creación de dashboards interactivos para visualización de eventos críticos.
 
-Qué incidentes se pudieron detectar.
+Ajuste de visualizaciones según criterios de relevancia y prioridad.
 
-Qué mejoras agregarías.
+Creación de reglas de alerta y correlación
 
-Lecciones aprendidas para triage y escalamiento a L2.
+Desarrollo de reglas personalizadas para identificar incidentes de seguridad.
+
+Pruebas de correlación entre eventos para detección de patrones sospechosos.
+
+Evidencia
+
+Dashboards activos: capturas mostrando visualización de eventos y métricas clave.
+
+Alertas generadas: ejemplos de alertas configuradas y su comportamiento ante incidentes simulados.
+
+Logs y resultados: archivos de logs utilizados para pruebas y evidencias de detección de incidentes.
+
+Resultados y conclusiones
+
+Incidentes detectados: listado de incidentes identificados durante las pruebas.
+
+Mejoras sugeridas: recomendaciones para optimización de reglas, dashboards y flujo de alertas.
+
+Lecciones aprendidas: conocimiento adquirido sobre triage, escalamiento a SOC Nivel 2 y prácticas de análisis de eventos.
