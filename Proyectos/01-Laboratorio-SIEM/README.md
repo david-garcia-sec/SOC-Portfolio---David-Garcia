@@ -1,12 +1,12 @@
-Objetivo:
+- Objetivo:
 
-"Configurar un laboratorio SIEM para practicar detección de incidentes, alertas y dashboards."
+*Configurar un laboratorio SIEM para practicar detección de incidentes, alertas y dashboards.*
 
-Herramientas utilizadas
+- Herramientas utilizadas:
 
-Ej: Splunk, ELK, Graylog, Security Onion, Sysmon, Suricata.
+Splunk
 
-Procedimiento paso a paso
+- Procedimiento paso a paso:
 
 Instalación del SIEM en laboratorio virtual.
 
@@ -16,7 +16,7 @@ Configuración de dashboards.
 
 Creación de reglas de alerta y correlación.
 
-Evidencia
+- Evidencia
 
 Capturas de dashboards activos.
 
@@ -24,7 +24,7 @@ Ejemplos de alertas generadas.
 
 Logs originales y resultados de pruebas.
 
-Resultados / Conclusiones
+- Resultados / Conclusiones:
 
 Qué incidentes se pudieron detectar.
 
