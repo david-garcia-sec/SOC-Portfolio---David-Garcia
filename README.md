@@ -7,15 +7,15 @@
 
 Proyectos:
 
-[Laboratorio SIEM](Proyectos/01-Laboratorio-SIEM)
+[01 - Laboratorio SIEM](Proyectos/01-Laboratorio-SIEM)
 
-[Triage Endpoint](Proyectos/02-Triage-Endpoint)
+[02 - Triage Endpoint](Proyectos/02-Triage-Endpoint)
 
-[Triage Red](Proyectos/03-Triage-Red)
+[03 - Triage Red](Proyectos/03-Triage-Red)
 
-[Playbooks de Respuesta](Proyectos/04-Playbooks-Respuesta)
+[04 - Playbooks de Respuesta](Proyectos/04-Playbooks-Respuesta)
 
-[Threat Hunting](Proyectos/05-Threat-Hunting)
+[05 - Threat Hunting](Proyectos/05-Threat-Hunting)
 
 <br>
 
