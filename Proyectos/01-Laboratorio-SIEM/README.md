@@ -31,7 +31,7 @@ Configurar y operar un laboratorio SIEM con el fin de **practicar la detección 
 ## Evidencia
 
 - **Dashboards activos**  
-  ![Placeholder Dashboard](ruta/a/captura_dashboard.png)
+
 
 - **Alertas generadas**  
   - Ejemplo de alerta crítica: `[Nombre de alerta]`  
